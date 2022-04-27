@@ -9,8 +9,8 @@
 
 
 - 🌱 I’m currently learning **Full Stack MERN Technology**
-- 
-- - 🔭 I’m currently working on NoSQL database using NodeJs, MongoDB, Mongoose, Express technology. I learning backend technology.
+
+- 🔭 I’m currently working on NoSQL database using NodeJs, MongoDB, Mongoose, Express technology. I learning backend technology.
 
 - 👨‍💻 All of my projects are available at [https://niskuldeep.netlify.app](https://niskuldeep.netlify.app)
 
