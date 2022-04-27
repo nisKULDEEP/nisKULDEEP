@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kuldeep Singh</h1>
+<div align="center">
+<img width="100%" height = "250px" src="https://media-exp1.licdn.com/dms/image/C4E16AQH30NJgma_rIg/profile-displaybackgroundimage-shrink_350_1400/0/1646733514007?e=2147483647&v=beta&t=JkwTPqQhnM5Q2aa6r1_7wZSzBupHS9FeAJYuWrXsCmM" alt="cover" />
+</div>
+<h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I'm Kuldeep Singh</h1>
 <h3 align="center">A passionate full stack developer and UI/UX designer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=niskuldeep&label=Profile%20views&color=0e75b6&style=flat" alt="niskuldeep" /> </p>
@@ -6,10 +9,12 @@
 
 
 - 🌱 I’m currently learning **Full Stack MERN Technology**
+- 
+- - 🔭 I’m currently working on NoSQL database using NodeJs, MongoDB, Mongoose, Express technology. I learning backend technology.
 
 - 👨‍💻 All of my projects are available at [https://niskuldeep.netlify.app](https://niskuldeep.netlify.app)
 
-- 💬 Ask me about **React, Redux, JavaScript, HTML,CSS, Figma**
+- 💬 Ask me about **React, Redux, Sass, JavaScript, HTML, CSS, NodeJs, Mongoose, Express**
 
 - 📫 How to reach me **kuldeepnishad.singh@gmail.com**
 
@@ -26,7 +31,17 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<p align="left"> <a href= https://github.com/https://github.com/nisKULDEEP/nisKULDEEP?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/https://github.com/nisKULDEEP/nisKULDEEP?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/https://github.com/nisKULDEEP/nisKULDEEP?tab=repositories&q=&type=&language=redux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
+<a href= https://github.com/https://github.com/nisKULDEEP/nisKULDEEP?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/https://github.com/nisKULDEEP/nisKULDEEP?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/https://github.com/nisKULDEEP/nisKULDEEP?tab=repositories&q=&type=&language=sass&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
+<a href= https://github.com/https://github.com/nisKULDEEP/nisKULDEEP?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+<a href= https://github.com/https://github.com/nisKULDEEP/nisKULDEEP?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
+<a href= https://github.com/https://github.com/nisKULDEEP/nisKULDEEP?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+<a href= https://github.com/https://github.com/nisKULDEEP/nisKULDEEP?tab=repositories&q=&type=&language=figma&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
+ </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niskuldeep&show_icons=true&locale=en&layout=compact" alt="niskuldeep" /></p>
 
