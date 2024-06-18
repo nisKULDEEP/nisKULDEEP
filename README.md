@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://media-exp1.licdn.com/dms/image/C4E16AQH30NJgma_rIg/profile-displaybackgroundimage-shrink_350_1400/0/1646733514007?e=2147483647&v=beta&t=JkwTPqQhnM5Q2aa6r1_7wZSzBupHS9FeAJYuWrXsCmM" alt="cover" />
+<img width="100%" height = "250px" src="https://media.licdn.com/dms/image/D5616AQEoVpnE-xiWRw/profile-displaybackgroundimage-shrink_350_1400/0/1694116050273?e=1724284800&v=beta&t=IJ7nwn_i2SrRgcU97_xp-29QHgNBWD6bv4VxARvctDo" alt="cover" />
 </div>
 <h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I'm Kuldeep Singh</h1>
 <h3 align="center">A passionate full stack developer and UI/UX designer from India</h3>
